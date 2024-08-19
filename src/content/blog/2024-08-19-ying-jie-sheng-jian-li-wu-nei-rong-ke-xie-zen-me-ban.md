@@ -5,6 +5,7 @@ modDatetime: 2024-08-19
 title: 应届生简历无内容可写怎么办？
 featured: false
 draft: false
+description: 工作
 ---
 # **应届生简历无内容可写怎么办？**
 
